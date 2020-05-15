@@ -32,4 +32,4 @@ Metode yang digunakan untuk membuat Sistem Pendukung Keputusan diantaranya:
   - Use PHP Native (For learning)
 
 # Kalian Tertarik?
-Silahkan hubungi kami di email kami : kankburhan[at]gmail[dot]com atau bisa contact via whatsapp only : +6283861528915
+Silahkan hubungi kami di email kami : kankburhan[at]gmail[dot]com
